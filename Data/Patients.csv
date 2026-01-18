@@ -1,0 +1,301 @@
+Patient_ID,Name,Age,Gender,Medical_History
+1,Jessica Moore,49,Female,Allergies
+2,Paul Gallagher,48,Other,Diabetes
+3,Tamara Coleman,29,Male,None
+4,Michael Mays,61,Female,Cancer
+5,Heidi Brown,48,Other,Cancer
+6,William Carpenter,29,Other,Cancer
+7,Billy Ramirez,41,Other,Diabetes
+8,Jonathan Nguyen,25,Female,Hypertension
+9,Elizabeth Hudson,64,Other,Hypertension
+10,Megan Ellis,1,Other,Cancer
+11,Luke Santos,24,Female,None
+12,Sharon Tapia,19,Other,Hypertension
+13,Charles Berg,57,Other,None
+14,Taylor Turner,57,Other,Heart Disease
+15,James Mercer,61,Other,Allergies
+16,Danielle Thomas,72,Other,Allergies
+17,Tyler Davis,31,Female,Diabetes
+18,Mr. Jason Wheeler,42,Other,Allergies
+19,Jordan Jones,37,Male,Allergies
+20,Adam Meyer,28,Male,Hypertension
+21,Roberta Harrison,59,Other,Cancer
+22,Wesley Evans,36,Male,Hypertension
+23,Taylor Proctor,62,Male,Hypertension
+24,Mrs. Deanna Woods,87,Male,None
+25,Chelsea Jones,44,Other,Diabetes
+26,Christina Mack,52,Male,Hypertension
+27,Christopher Lewis,18,Other,Allergies
+28,Regina Wallace,60,Male,Cancer
+29,Lori Wright,53,Female,None
+30,Susan Leon,66,Female,None
+31,Devin Maxwell,39,Other,Cancer
+32,Kayla Berger,17,Other,Hypertension
+33,Jennifer Santiago,16,Male,Cancer
+34,Kathryn Woodward DDS,43,Other,None
+35,Todd Hunter,8,Female,Asthma
+36,Christopher Carter,41,Female,Heart Disease
+37,Andrew Perry,34,Female,Allergies
+38,Jennifer Williams,90,Other,Hypertension
+39,Patrick Perez,24,Female,Hypertension
+40,Amy Tyler,30,Other,None
+41,Mitchell Hunt,4,Female,Asthma
+42,Heather Barton,5,Other,None
+43,Julie Cole,68,Male,Heart Disease
+44,Philip Curry,30,Other,Allergies
+45,Deborah Gallagher,14,Female,Diabetes
+46,Douglas Valenzuela,65,Other,Allergies
+47,Dorothy Boyle,66,Male,Cancer
+48,Danielle Gray,38,Female,Hypertension
+49,Matthew Cardenas,8,Male,Allergies
+50,Amanda Edwards,22,Male,Allergies
+51,Christine Tran,32,Female,Cancer
+52,Robert Rodriguez,34,Female,Asthma
+53,Caitlin Mccullough,6,Female,Hypertension
+54,Ronald Fox,1,Male,Cancer
+55,Jacob Campbell,37,Male,Allergies
+56,Kathleen Hernandez,21,Female,Asthma
+57,Crystal Woods,52,Male,Allergies
+58,Vickie Santiago,76,Other,Hypertension
+59,Roger Wade,6,Female,None
+60,Corey Acevedo,2,Female,Allergies
+61,Lindsey Ramirez,43,Female,Hypertension
+62,Cameron Wells,47,Female,Asthma
+63,Robert Wiley,63,Male,Allergies
+64,Tracy Wallace,68,Other,Asthma
+65,Kevin Archer III,12,Other,Allergies
+66,Curtis Moon,9,Male,Diabetes
+67,Debra Bullock,28,Female,None
+68,Mark Alexander,14,Male,Hypertension
+69,Jonathan Franklin,55,Male,Heart Disease
+70,Rebecca Stewart,33,Female,Allergies
+71,Stephen Johnson,58,Other,Allergies
+72,Kevin Aguilar,4,Other,Diabetes
+73,Tracy Leon,33,Male,Hypertension
+74,Sherri Goodman,19,Female,Cancer
+75,Crystal Martinez,41,Male,Hypertension
+76,Ryan Lane,4,Female,None
+77,Michelle Davis,76,Male,Cancer
+78,Martin Roberts,10,Other,Hypertension
+79,Kevin Hancock,63,Female,Allergies
+80,Mark Hess,38,Female,Cancer
+81,Rachel Mejia,6,Male,Heart Disease
+82,Todd Wright,52,Other,Allergies
+83,Stephanie Thomas,82,Female,Hypertension
+84,Janet Brown,74,Female,Allergies
+85,Jean Jimenez,76,Female,Allergies
+86,Jill Chambers,33,Female,Cancer
+87,Hailey Tapia,16,Male,None
+88,Lucas Martin,37,Female,Asthma
+89,Danielle Harris,17,Female,Hypertension
+90,Stacy Mitchell,68,Other,Hypertension
+91,Jake Hoffman,63,Male,Cancer
+92,Adam Cooper,64,Female,None
+93,Brittany Lopez,30,Other,None
+94,Samuel Parker,68,Male,Cancer
+95,Cindy Allen,87,Male,Heart Disease
+96,Katherine Chavez,23,Other,None
+97,Cathy Taylor,2,Female,Asthma
+98,Charles Mcdonald,35,Female,Heart Disease
+99,Seth Cannon,67,Male,Diabetes
+100,Brandon Fox,15,Female,Allergies
+101,Juan Nelson,32,Other,Cancer
+102,Sherry Jackson,58,Female,Allergies
+103,Felicia Smith,15,Female,Cancer
+104,John Jackson,8,Male,Asthma
+105,Steve Baker,70,Female,Cancer
+106,Yolanda Hood,40,Other,Hypertension
+107,Jacob Campbell,28,Male,Hypertension
+108,Melissa Lee,85,Other,Diabetes
+109,Laurie Taylor,10,Other,Cancer
+110,Jeffery Miles,66,Male,Allergies
+111,Tammy Russell,53,Other,Diabetes
+112,David Cox,75,Female,Hypertension
+113,Charlotte Jensen,29,Male,Diabetes
+114,Todd Montgomery,90,Other,Diabetes
+115,Erica Johnson,87,Male,None
+116,John Woods,84,Male,Cancer
+117,Mark Hayes,53,Female,Asthma
+118,Vanessa Vance,56,Other,Hypertension
+119,Christopher Clark,25,Other,Allergies
+120,Jeremy Duncan,80,Other,Asthma
+121,Karen Morris,45,Female,Hypertension
+122,Andrew Hurley,25,Other,Hypertension
+123,Gerald White,86,Female,Heart Disease
+124,Mrs. Jennifer Walsh,22,Other,Hypertension
+125,James Richardson,21,Other,None
+126,Jon Kerr,74,Male,Diabetes
+127,Thomas Mcguire,41,Male,Diabetes
+128,Erik Black,33,Female,Cancer
+129,Mark Thomas,46,Female,Asthma
+130,Jennifer Smith,42,Other,Cancer
+131,Michael Williams,88,Female,Heart Disease
+132,Anna Lane,87,Other,Allergies
+133,Linda Moses,25,Other,Hypertension
+134,Tami Combs,76,Male,None
+135,Richard Kramer,30,Female,Asthma
+136,Samuel Warren,86,Other,Asthma
+137,Carolyn Mora,1,Male,Diabetes
+138,Daniel Townsend,63,Male,Allergies
+139,Angela Kennedy,84,Female,Allergies
+140,Ariana Jacobs,43,Other,Asthma
+141,Michelle Reeves,44,Other,Heart Disease
+142,Brittany Villarreal,24,Other,Heart Disease
+143,Zachary Ray,66,Other,Hypertension
+144,Dennis Dean,1,Female,Allergies
+145,Taylor Hester,64,Other,Heart Disease
+146,Paul Avery,25,Other,Diabetes
+147,Luis Mcguire,74,Other,Asthma
+148,Grant Barrett,52,Female,Cancer
+149,James Hill,43,Female,None
+150,Corey Lee,21,Male,Asthma
+151,Jose Santana,76,Male,Allergies
+152,Samuel Ray,29,Male,None
+153,Michael Bailey,33,Other,Asthma
+154,Janet Mendoza,55,Other,Hypertension
+155,Curtis Murphy,15,Male,Asthma
+156,Kristen Johnson,48,Female,Hypertension
+157,Mrs. Tammy Brown,41,Other,Diabetes
+158,Robert Hernandez,31,Male,Diabetes
+159,Kevin Jones,80,Other,Diabetes
+160,Mark Hooper,49,Male,Asthma
+161,Mr. James Decker,47,Other,Allergies
+162,Heather Macias,8,Female,Cancer
+163,Jackie Brown,47,Other,Allergies
+164,Deborah Booth,84,Female,None
+165,Tamara Davis,13,Female,None
+166,Debbie Wilson,45,Other,Heart Disease
+167,Sandra Cantu,57,Female,None
+168,Tonya Matthews,5,Other,Asthma
+169,Robert Bradley,85,Male,Diabetes
+170,Abigail Reed,37,Other,Allergies
+171,Charles White,79,Female,Heart Disease
+172,Crystal Johnson,87,Male,Heart Disease
+173,Megan Morgan,42,Other,Asthma
+174,David Cooke,28,Other,Allergies
+175,Brittney White,51,Other,None
+176,Kevin Wallace,16,Other,Cancer
+177,Melissa Mcbride,6,Male,Cancer
+178,Michael Walton,90,Other,Cancer
+179,Sergio Morgan,62,Other,Hypertension
+180,Jeremy Moore,62,Female,Heart Disease
+181,Kevin Greene,86,Male,Asthma
+182,Steven Luna,8,Female,Allergies
+183,Sean Waters,39,Female,None
+184,Jessica Johnson,66,Male,Allergies
+185,Melanie Rivera,16,Other,Heart Disease
+186,Amy Garcia,71,Male,Hypertension
+187,Elaine Hopkins,70,Other,Allergies
+188,Heather Gentry,13,Male,Diabetes
+189,Danielle Olson,33,Other,Heart Disease
+190,Curtis Moody,14,Male,Diabetes
+191,Christopher Patton,86,Other,Heart Disease
+192,Brandon Rivera,40,Other,None
+193,Alexander Chan,22,Female,Heart Disease
+194,Calvin White,7,Female,Diabetes
+195,Richard Moon,36,Male,Diabetes
+196,Daniel Ball,20,Female,None
+197,Tyler Miller,51,Female,Diabetes
+198,Darren Figueroa,37,Female,Allergies
+199,Debra Williams,72,Other,Hypertension
+200,Mark Salas,32,Female,Allergies
+201,Mark Hodges,38,Male,Heart Disease
+202,Dillon Davis,73,Female,Asthma
+203,Michelle Deleon,65,Other,Heart Disease
+204,Lisa Beck,72,Male,Diabetes
+205,Drew Middleton,84,Male,Hypertension
+206,Emily Medina,27,Other,Allergies
+207,Jessica Anderson,80,Male,None
+208,Jason Hutchinson,23,Female,Asthma
+209,Bradley Weiss,30,Male,Heart Disease
+210,Roy Mays,74,Female,Allergies
+211,Michael Moran,75,Male,None
+212,Sheryl Richardson,37,Male,None
+213,Zachary Garcia DVM,11,Other,Diabetes
+214,Amanda Mcclure,78,Other,Cancer
+215,Anna Greene,24,Male,Asthma
+216,Ashley Scott,28,Male,Hypertension
+217,Larry Contreras,61,Other,Allergies
+218,Julian Cortez,47,Male,Hypertension
+219,John Rich,7,Other,Allergies
+220,Christina Gonzalez,70,Male,Diabetes
+221,Kenneth Drake,19,Female,Allergies
+222,Julie Davis,62,Male,Heart Disease
+223,Jill Alexander,88,Female,Allergies
+224,Karen Torres,26,Female,Allergies
+225,Cassandra Brown,89,Other,None
+226,Wendy Brown,58,Male,Cancer
+227,Gregory Wallace,41,Male,Allergies
+228,Kevin White,1,Male,Diabetes
+229,Zachary Larson,68,Female,Allergies
+230,Kevin Hall,5,Male,Cancer
+231,Jeffrey Campbell,20,Other,Cancer
+232,Kristie Collins,1,Other,Hypertension
+233,Teresa Wilson,36,Female,Asthma
+234,Miss Diana Jones,16,Male,Heart Disease
+235,Hannah Lam,51,Female,Diabetes
+236,Christopher Shaw,34,Female,Heart Disease
+237,Donald Lopez,24,Other,Heart Disease
+238,Evan Williams,65,Male,Allergies
+239,Andrew Turner,63,Male,Heart Disease
+240,Mario Webster,78,Female,None
+241,Ryan Holland,61,Female,Asthma
+242,Eddie Allison,24,Other,Hypertension
+243,Nicholas Edwards,31,Other,Diabetes
+244,Heather Cook,33,Male,Heart Disease
+245,Samantha Pineda,46,Female,Diabetes
+246,Stephanie Wilkinson,50,Other,Allergies
+247,Brandon Oneill,87,Female,Cancer
+248,Sarah Shelton,38,Other,Cancer
+249,Jennifer Hess,86,Female,Cancer
+250,Susan Martin,81,Male,Asthma
+251,Phyllis Gibson,52,Other,Hypertension
+252,David Wright,83,Female,Cancer
+253,Catherine Gill,42,Male,Asthma
+254,Emma Bell,40,Other,Allergies
+255,Connor Garcia,80,Other,Diabetes
+256,Scott Zimmerman,5,Female,Hypertension
+257,Gary Wells,89,Female,Diabetes
+258,Jacqueline Bright,50,Female,Allergies
+259,Michelle Lewis,55,Other,Asthma
+260,Suzanne Howe,86,Male,Diabetes
+261,Laura Simmons,28,Female,Hypertension
+262,Tanner Guerrero,74,Other,Heart Disease
+263,Mr. Anthony Smith,90,Male,Asthma
+264,Joseph Nash,52,Other,Cancer
+265,Joseph Cannon,22,Female,Cancer
+266,Carolyn Johnson,47,Female,Hypertension
+267,John Olsen Jr.,24,Male,Hypertension
+268,Alisha Phillips,20,Female,Heart Disease
+269,Sarah Rose,4,Female,Diabetes
+270,Katherine Nelson,53,Other,Asthma
+271,William Miller,53,Other,Diabetes
+272,Christopher Myers,88,Male,Asthma
+273,William Bowen,59,Female,Allergies
+274,Mrs. Allison Barr DVM,80,Other,Diabetes
+275,William Reynolds,16,Other,Cancer
+276,Joseph Salazar,19,Female,Asthma
+277,Paul Perry,49,Male,Hypertension
+278,Tyler Lindsey,85,Other,Cancer
+279,Becky Lucas,18,Female,Allergies
+280,Brad Jennings,37,Female,Asthma
+281,Rodney Fernandez,60,Male,Asthma
+282,Connor Harris,33,Male,Allergies
+283,Lori Gilmore,77,Other,None
+284,Barbara Walker,3,Other,Heart Disease
+285,Wendy Hale,26,Other,None
+286,Erica Armstrong,27,Male,None
+287,Jillian Barrett,36,Other,Heart Disease
+288,Kaitlyn Sellers,43,Female,None
+289,Edward Casey,9,Female,Allergies
+290,Jennifer Bartlett,13,Other,Hypertension
+291,Scott Kent,47,Female,Cancer
+292,Jonathan Hull,87,Male,None
+293,Maria Harrison,78,Male,None
+294,Michael Medina,28,Female,Heart Disease
+295,David Newman,83,Female,Hypertension
+296,Timothy Jones,10,Other,Cancer
+297,Gary Mann,10,Male,Diabetes
+298,Stephanie Bass,58,Female,Cancer
+299,William Trujillo,78,Male,None
+300,Robert Beck,31,Other,None
